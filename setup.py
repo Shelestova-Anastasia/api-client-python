@@ -4,10 +4,7 @@ setup(
     name='testit-api-client',
     version='1.0.0',
     description='API-client for Test IT',
-    long_description=open('README.rst').read(),
     url='https://pypi.org/project/testit-api-client/',
-    author='Pavel Butuzov',
-    author_email='pavel.butuzov@testit.software',
     license='Apache-2.0',
     classifiers=[
         'Programming Language :: Python :: 3',
