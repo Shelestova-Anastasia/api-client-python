@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='testit-api-client',
-    version='1.0.0',
+    version='1.1.1.dev1',
     description='API-client for Test IT',
     url='https://pypi.org/project/testit-api-client/',
     license='Apache-2.0',
